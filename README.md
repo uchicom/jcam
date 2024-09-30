@@ -1,2 +1,2 @@
 # jcam
-java opencv camera
+java jcodec raspberry pi camera
